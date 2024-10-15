@@ -1,0 +1,30 @@
+name: rnaseq-nf
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - trim-galore
+  - salmon
+  - star
+  - rsem
+  - picard=2.20.6
+  - samtools
+  - bowtie
+  - bcftools
+  - kallisto
+  - fastqc
+  - subread
+  - multiQC=1.11
+  - rseqc
+  - qualimap
+  - bedtools
+  - gffread
+  - bioconductor-dupradar
+  - bioconductor-tximeta
+  - r-tidyverse
+  - ucsc-bedclip=377
+  - ucsc-bedgraphtobigwig=377
+  - conda-forge::openjdk
+  - openssl=1.1.1
+  - conda-forge::blas=*=openblas

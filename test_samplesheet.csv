@@ -1,0 +1,5 @@
+sample_id,cellline_id,fastq_1,fastq_2
+sample_1_rep1,sample_1,<s3_path_to_fastqs>sample_1_rep1_R1.fastq.gz,<s3_path_to_fastqs>sample_1_rep1_R2.fastq.gz
+sample_1_rep2,sample_1,<s3_path_to_fastqs>sample_1_rep2_R1.fastq.gz,<s3_path_to_fastqs>sample_1_rep2_R2.fastq.gz
+sample_2_rep1,sample_2,<s3_path_to_fastqs>sample_2_rep1_R1.fastq.gz,<s3_path_to_fastqs>sample_2_rep1_R2.fastq.gz
+sample_2_rep2,sample_2,<s3_path_to_fastqs>sample_2_rep2_R1.fastq.gz,<s3_path_to_fastqs>sample_2_rep2_R2.fastq.gz
