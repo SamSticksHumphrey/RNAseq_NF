@@ -1,5 +1,5 @@
 # RNA-seq pipeline
-## Verion 1.0, March 2022
+## Version 1.0, March 2022
 ## Sam Humphrey
 
 ## Introduction
